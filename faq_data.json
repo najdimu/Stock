@@ -15,7 +15,7 @@
     },
 {
         "id": 0003,
-        "title": "How to apply themes/wallpapers?",
+        "title": "How to apply themes or wallpapers?",
         "title_ru": "Вопрос?",
         "info": "To apply themes or wallpapers, follow these steps:\n1.Open the \"Theme\" application and navigate to the Themes or Wallpapers tab.\n2.Browse and select the theme or wallpaper you like.\n3.Scroll up to find the \"Download/Apply\" button.\n4.Tap the button to download and apply your chosen theme or wallpaper.",
         "info_ru": "Ответ"
@@ -29,7 +29,7 @@
     },
 {
         "id": 0005,
-        "title": "I can't download themes because it says 'No internet connection.' What should I do?",
+        "title": "I can't download themes because it says \"No internet connection.\" What should I do?",
         "title_ru": "Вопрос?",
         "info": "This problem occurs on POCO, Xiaomi and Redmi devices when the selected theme is not available in your region or not compatible with your device, please try to select other themes. This problem does not depend on us. Thank you for your understanding!",
         "info_ru": "Ответ"
@@ -50,34 +50,41 @@
     },
     {
         "id": 0008,
+        "title": "I can't apply themes or fonts on my Realme device. What should I do?",
+        "title_ru": "Вопрос?",
+        "info": "Before applying themes or fonts, ensure that your smartphone has the official Theme Store (or theme services) installed. If not, try installing the official Theme Store for your device, if possible. Also, pay close attention to the information provided under the theme or font screenshots, as missing requirements may prevent you from opening or applying them.",
+        "info_ru": "Ответ"
+    },
+    {
+        "id": 0009,
         "title": "I looked for fonts, but there are no fonts available. What should I do?",
         "title_ru": "Вопрос?",
         "info": "Currently, fonts in the application are available only for Oppo and Realme devices. We are actively working on adding support for fonts on other devices in the future. Thank you for your patience!",
         "info_ru": "Ответ"
     },
 {
-        "id": 0009,
+        "id": 0010,
         "title": "What is the benefit of using this application if Themes already includes a theme store?",
         "title_ru": "Вопрос?",
         "info": "Our application is designed to provide you with over 12,000 free, high-quality themes and wallpapers, saving you the hassle of searching for free options in the Theme Store. We focus on making personalization easy and accessible for everyone. Thank you for your understanding!",
         "info_ru": "Ответ"
     },
     {
-        "id": 0010,
-        "title": "I applied a theme/font. How can I return to the default settings?",
+        "id": 0011,
+        "title": "I applied a theme or font. How can I return to the default settings?",
         "title_ru": "Вопрос?",
         "info": "To return to the default theme or font on your device, follow these general steps:\n1. Open the \"Themes\" or \"Display\" application on your device.\n2. Go to the \"My Themes\" or \"My Fonts\" section (this may vary depending on your device).\n3. Look for an option labeled \"Default\", \"System Default\" or something similar.\n4. Select the default option and tap \"Apply\" to restore the original settings.\nIf you don't see these options, check your device's settings under \"Display\", \"Personalization\" or \"Themes\" for the default settings.",
         "info_ru": "Ответ"
     },
 {
-        "id": 0011,
+        "id": 0012,
         "title": "Why is the font not changing on Realme and Oppo devices?",
         "title_ru": "Вопрос?",
         "info": "This issue may occur due to your device's performance limitations or because the font is not compatible with your device. We recommend trying another font to resolve the problem. Thank you for your understanding!",
         "info_ru": "Ответ"
     },
     {
-        "id": 0012,
+        "id": 0013,
         "title": "Can I use without Ads?",
         "title_ru": "Вопрос?",
         "info": "We understand your concern about ads. You can remove them for free by going to the \"My Downloads\" section and selecting the \"Remove Ads\" option. This will allow you to continue using the app without interruptions. Thank you for your understanding!",
