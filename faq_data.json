@@ -3,25 +3,21 @@
         "id": 0001,
         "title": "What is the Theme application?",
         "title_ru": "Вопрос?",
-        "info": "The "Theme" application offers a collection of over 12,000 free themes and 15,000 high-quality wallpapers designed for Android smartphones. It allows users to personalize their devices, making them more visually appealing and tailored to individual tastes.",
+        "info": "The \"Theme\" application offers a collection of over 12,000 free themes and 15,000 high-quality wallpapers designed for Android smartphones. It allows users to personalize their devices, making them more visually appealing and tailored to individual tastes.",
         "info_ru": "Ответ"
     },
     {
         "id": 0002,
         "title": "How can I use it?",
         "title_ru": "Вопрос?",
-        "info": "Using the "Themes" application is simple and user-friendly. You can browse, select, and apply themes or wallpapers directly from the app to customize your device. For detailed instructions, please follow this link: [https://thethemes.co/use_app].",
+        "info": "Using the \"Themes\" application is simple and user-friendly. You can browse, select, and apply themes or wallpapers directly from the app to customize your device. For detailed instructions, please follow this link: [https://thethemes.co/use_app].",
         "info_ru": "Ответ"
     },
 {
         "id": 0003,
         "title": "How to apply themes/wallpapers?",
         "title_ru": "Вопрос?",
-        "info": "To apply themes or wallpapers, follow these steps:
-1.Open the "Theme" application and navigate to the Themes or Wallpapers tab.
-2.Browse and select the theme or wallpaper you like.
-3.Scroll up to find the "Download/Apply" button.
-4.Tap the button to download and apply your chosen theme or wallpaper.",
+        "info": "To apply themes or wallpapers, follow these steps:\n1.Open the \"Theme\" application and navigate to the Themes or Wallpapers tab.\n2.Browse and select the theme or wallpaper you like.\n3.Scroll up to find the \"Download/Apply\" button.\n4.Tap the button to download and apply your chosen theme or wallpaper.",
         "info_ru": "Ответ"
     },
     {
@@ -70,12 +66,7 @@
         "id": 0010,
         "title": "I applied a theme/font. How can I return to the default settings?",
         "title_ru": "Вопрос?",
-        "info": "To return to the default theme or font on your device, follow these general steps:
-1. Open the "Themes" or "Display" application on your device.
-2. Go to the "My Themes" or "My Fonts" section (this may vary depending on your device).
-3. Look for an option labeled "Default," "System Default," or something similar.
-4. Select the default option and tap "Apply" to restore the original settings.
-If you don't see these options, check your device's settings under "Display," "Personalization," or "Themes" for the default settings.",
+        "info": "To return to the default theme or font on your device, follow these general steps:\n1. Open the \"Themes\" or \"Display\" application on your device.\n2. Go to the \"My Themes\" or \"My Fonts\" section (this may vary depending on your device).\n3. Look for an option labeled \"Default\", \"System Default\" or something similar.\n4. Select the default option and tap \"Apply\" to restore the original settings.\nIf you don't see these options, check your device's settings under \"Display\", \"Personalization\" or \"Themes\" for the default settings.",
         "info_ru": "Ответ"
     },
 {
@@ -89,7 +80,7 @@ If you don't see these options, check your device's settings under "Display," "P
         "id": 0012,
         "title": "Can I use without Ads?",
         "title_ru": "Вопрос?",
-        "info": "We understand your concern about ads. You can remove them for free by going to the "My Downloads" section and selecting the "Remove Ads" option. This will allow you to continue using the app without interruptions. Thank you for your understanding!",
+        "info": "We understand your concern about ads. You can remove them for free by going to the \"My Downloads\" section and selecting the \"Remove Ads\" option. This will allow you to continue using the app without interruptions. Thank you for your understanding!",
         "info_ru": "Ответ"
     }
 ]
