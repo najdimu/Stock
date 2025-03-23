@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "What a beautiful soup",
+        "description": "Soup Using the Themes application is simple and user-friendly. You can browse, select, and apply themes or wallpapers directly from the app to customize your device. For detailed instructions, please follow this link: [https://thethemes.co/use_app].",
+        "mainImage": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg",
+        "avatar": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
+        "userName": "Nikita makarenko",
+        "images": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg",
+        "linkContent": "Ответ"
+    },
+    {
+        "id": 2,
+        "title": "How sweetie plow",
+      "description": "Plow the Themes application is simple and user-friendly. You can browse, select, and apply themes or wallpapers directly from the app to customize your device. For detailed instructions, please follow this link: [https://thethemes.co/use_app].",
+      "mainImage": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg",
+      "avatar": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
+      "userName": "Kemine Gurban",
+      "images": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg",
+      "linkContent": "Ответ"
+    },
+    {
+        "id": 3,
+        "title": "What a good pizza",
+      "description": "Pizza the Themes application is simple and user-friendly. You can browse, select, and apply themes or wallpapers directly from the app to customize your device. For detailed instructions, please follow this link: [https://thethemes.co/use_app].",
+      "mainImage": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pizza.jpg",
+      "avatar": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+      "userName": "Natali Deco",
+      "images": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pizza.jpg",
+      "linkContent": "Ответ"
+    }
+]
