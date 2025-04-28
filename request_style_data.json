@@ -1,3 +1,27 @@
 [
-    
+    {
+        "id": 1,
+        "title": "What a beautiful soup",
+        "avatar": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
+        "author": "Nikita makarenko",
+        "status": 1,
+        "date": "24/04/25"
+    },
+    {
+        "id": 2,
+        "title": "How sweetie plow",
+      "avatar": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
+      "author": "Kemine Gurban",      
+        "status": 2,
+        "date": "22/04/25"
+    },
+    {
+        "id": 3,
+        "title": "What a good pizza",
+            "avatar": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+      "author": "Natali Deco",
+      
+        "status": 3,
+        "date": "14/04/25"
+    }
 ]
