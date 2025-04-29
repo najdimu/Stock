@@ -9,10 +9,9 @@
         "images": [
             "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg"
         ],
-        "themeLink": "themeLink",
-        "wallpaperLink": "wallpaperLink",
-        "iconLink": "iconLink",
-        "fontLink": "fontLink"
+        "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
+        "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg",
+        "supportDevice": "All devices"
     },
     {
         "id": 2,
@@ -24,10 +23,11 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg"
       ],
-      "themeLink": "themeLink",
-        "wallpaperLink": "wallpaperLink",
-        "iconLink": "iconLink",
-        "fontLink": "fontLink"
+      
+        "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg",
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
+        "supportDevice": "Samsung Galaxy",
+       
     },
     {
         "id": 3,
@@ -39,10 +39,10 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pizza.jpg"
       ],
-       "themeLink": "themeLink",
-        "wallpaperLink": "wallpaperLink",
-        "iconLink": "iconLink",
-        "fontLink": "fontLink"
+       "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+       
+        "supportDevice": "Redmi, Xiaomi & POCO"
     },
     {
         "id": 4,
@@ -54,10 +54,10 @@
         "images": [
             "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg"
         ],
-         "themeLink": "themeLink",
-        "wallpaperLink": "wallpaperLink",
-        "iconLink": "iconLink",
-        "fontLink": "fontLink"
+         "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
+      
+        "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
+        "supportDevice": "Redmi, Xiaomi & POCO"
     },
     {
         "id": 5,
@@ -69,10 +69,10 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg"
       ],
-       "themeLink": "themeLink",
-        "wallpaperLink": "wallpaperLink",
-        "iconLink": "iconLink",
-        "fontLink": "fontLink"
+      
+        "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
+        "supportDevice": "Realme & Oppo",
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg"
     },
     {
         "id": 6,
@@ -84,10 +84,10 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pizza.jpg"
       ],
-       "themeLink": "themeLink",
-        "wallpaperLink": "wallpaperLink",
-        "iconLink": "iconLink",
-        "fontLink": "fontLink"
+       "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "supportDevice": "Samsung Galaxy",
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg"
     },
     {
         "id": 7,
@@ -101,7 +101,7 @@
         ],
          "themeLink": "themeLink",
         "wallpaperLink": "wallpaperLink",
-        "iconLink": "iconLink",
+        "supportDevice": "iconLink",
         "fontLink": "fontLink"
     },
     {
@@ -115,7 +115,7 @@
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg"
       ],
        "themeLink": "themeLink",
-        "wallpaperLink": "wallpaperLink",
+        "supportDevice": "wallpaperLink",
         "iconLink": "iconLink",
         "fontLink": "fontLink"
     },
@@ -129,7 +129,7 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pizza.jpg"
         ],
-       "themeLink": "themeLink",
+       "supportDevice": "themeLink",
         "wallpaperLink": "wallpaperLink",
         "iconLink": "iconLink",
         "fontLink": "fontLink"
