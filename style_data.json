@@ -11,7 +11,7 @@
         ],
         "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
         "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg",
-         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg",
+         "iconLink": "",
         "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
         "supportDevice": "All devices"
     },
@@ -26,7 +26,7 @@
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg"
       ],
       "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
-        "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg",
+        "wallpaperLink": "",
         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg",
         "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
         "supportDevice": "Samsung Galaxy"
@@ -42,7 +42,7 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pizza.jpg"
       ],
-       "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+       "themeLink": "",
         "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg",
         "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
@@ -61,7 +61,7 @@
          "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
       "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
-        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
+        "fontLink": "",
         "supportDevice": "Redmi, Xiaomi & POCO"
     },
     {
