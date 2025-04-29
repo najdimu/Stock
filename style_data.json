@@ -11,6 +11,8 @@
         ],
         "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
         "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg",
+         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg",
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
         "supportDevice": "All devices"
     },
     {
@@ -23,7 +25,8 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg"
       ],
-      
+      "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
+        "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg",
         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg",
         "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
         "supportDevice": "Samsung Galaxy",
@@ -41,7 +44,8 @@
       ],
        "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
         "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
-       
+        "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg",
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
         "supportDevice": "Redmi, Xiaomi & POCO"
     },
     {
@@ -55,8 +59,9 @@
             "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg"
         ],
          "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
-      
+      "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
         "supportDevice": "Redmi, Xiaomi & POCO"
     },
     {
@@ -69,10 +74,12 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg"
       ],
-      
+       "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",
         "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
-        "supportDevice": "Realme & Oppo",
-        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg"
+         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",  
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palow.jpg",
+        "supportDevice": "Realme & Oppo"
+      
     },
     {
         "id": 6,
@@ -86,8 +93,9 @@
       ],
        "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
         "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
-        "supportDevice": "Samsung Galaxy",
-        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg"
+         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",  
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "supportDevice": "Samsung Galaxy"
     },
     {
         "id": 7,
@@ -99,10 +107,11 @@
         "images": [
             "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/soup.jpg"
         ],
-         "themeLink": "themeLink",
-        "wallpaperLink": "wallpaperLink",
-        "supportDevice": "iconLink",
-        "fontLink": "fontLink"
+          "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",  
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "supportDevice": "Samsung Galaxy"
     },
     {
         "id": 8,
@@ -114,10 +123,11 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/palov2.jpg"
       ],
-       "themeLink": "themeLink",
-        "supportDevice": "wallpaperLink",
-        "iconLink": "iconLink",
-        "fontLink": "fontLink"
+       "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",  
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "supportDevice": "Samsung Galaxy"
     },
     {
         "id": 9,
@@ -129,9 +139,10 @@
       "images": [
           "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pizza.jpg"
         ],
-       "supportDevice": "themeLink",
-        "wallpaperLink": "wallpaperLink",
-        "iconLink": "iconLink",
-        "fontLink": "fontLink"
+        "themeLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "wallpaperLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+         "iconLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/chorba.jpg",  
+        "fontLink": "https://raw.githubusercontent.com/najdimu/Stock/refs/heads/main/pitza.jpg",
+        "supportDevice": "Samsung Galaxy"
     }
 ]
